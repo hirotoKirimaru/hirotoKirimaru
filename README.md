@@ -67,7 +67,9 @@
 とっさの判断は早くはありません。  
 障害対応には時間がかかってしまいます。  
 テストで90点取れるタイプですが、速度を求められるクイズ形式は基本的に勝てません。
-  
+ 
+# repository
+![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
 
 
 
