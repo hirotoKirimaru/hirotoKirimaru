@@ -63,11 +63,16 @@
   
 何度も考えを反芻するので、総合的な行動速度は早いです。  
   
- 
+# LaprasのScore
+![lapras_score](https://github.com/hirotoKirimaru/hirotoKirimaru/blob/master/lapras_score.png)
+
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
 
+# ポートフォリオ
+http://hirotokirimaru.github.io
 
+https://lapras.com/public/JFCUKEW
 
 <!--
 
