@@ -62,11 +62,6 @@
   
 何度も考えを反芻するので、総合的な行動速度は早いです。  
   
-
-# 不得意
-とっさの判断は早くはありません。  
-障害対応には時間がかかってしまいます。  
-テストで90点取れるタイプですが、速度を求められるクイズ形式は基本的に勝てません。
  
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
@@ -74,6 +69,12 @@
 
 
 <!--
+
+# 不得意
+とっさの判断は早くはありません。  
+障害対応には時間がかかってしまいます。  
+テストで90点取れるタイプですが、速度を求められるクイズ形式は基本的に勝てません。
+
 **hirotoKirimaru/hirotoKirimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
