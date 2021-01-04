@@ -67,6 +67,10 @@
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
 
+# クリフトンストレングス（ストレングスファインダー）
+2021年1月2日実施
+<https://github.com/hirotoKirimaru/hirotoKirimaru/blob/master/cliftonstrengths_20200102.pdf>
+
 # ポートフォリオ
 http://hirotokirimaru.github.io
 
