@@ -4,6 +4,7 @@ import os
 from bs4 import BeautifulSoup
 # Webページを取得して解析する
 
+# 自分のURLを入力する
 load_url = "https://lapras.com/public/JFCUKEW"
 html = requests.get(load_url)
 soup = BeautifulSoup(html.content, "html.parser")
@@ -14,28 +15,26 @@ for tag in soup.find_all(name = "meta"):
     if "https://media.lapras.com/media/public_setting" in content:
         break
 
-path = open("path.txt", "r")
+# 事前にファイルのパスを持っておき、同一だった場合は更新しない
+read = "";
+with open("path.txt", "r") as path:
+    read = path.read()
+    # if read in content:
+#         sys.exit()
 
-if path.read() in content:
-    sys.exit()
-print("***********")
+# 先にREADMEを更新する
+after = ""
+with open("../README.md", "r") as readme:
+    after = readme.read().replace(read, content)
 
-path = open("path.txt", "w")
+with open("../README.md", "w") as readme:
+    readme.write(after)
 
-path.write(content)
+# 同一だったので更新する
+with open("path.txt", "w") as path:
+    path.write(content)
 
-os.system("git add .")
-os.system("git commit -m '[Auto] Update'")
-os.system("git push")
 
-# repo = git.Repo()
-# print(repo)
-
-# # repo = git.repo("https://github.com/hirotoKirimaru/hirotoKirimaru.git")
-# print(repo.git.branch())
-# print("*********")
-# repo.git.add("path.txt")
-# repo.git.commit("path.txt", "update file")
-# repo.git.push('origin', "master")
-
-print("***********")
+# os.system("git add .")
+# os.system("git commit -m '[Auto] Update'")
+# os.system("git push")
