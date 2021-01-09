@@ -22,12 +22,15 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.9
-    - name: Install pipenv and dependencies
+    - name: Install Pipenv
       run: |
+        cd python
         python -m pip install --upgrade pip
-        pip install pipenv --upgrade-strategy=only-if-needed
-        pipenv install --dev
-        pipenv --python path/to/python
+        pip install pipenv
+    - name: Install dependencies
+      run: |
+        cd python
+        pipenv sync
     - name: update
       run: |
         cd python
