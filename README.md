@@ -74,7 +74,7 @@
 # ポートフォリオ
 http://hirotokirimaru.github.io
 
-https://lapras.com/public/JFCUKEW
+https://media.lapras.com/media/public_setting/JFCUKEW/6b2122adc53449dcb4c69a33d5364954.png
 
 <!--
 
