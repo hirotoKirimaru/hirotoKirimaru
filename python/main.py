@@ -19,8 +19,8 @@ for tag in soup.find_all(name = "meta"):
 read = "";
 with open("path.txt", "r") as path:
     read = path.read()
-    # if read in content:
-#         sys.exit()
+    if read in content:
+        sys.exit()
 
 # 先にREADMEを更新する
 after = ""
@@ -34,7 +34,6 @@ with open("../README.md", "w") as readme:
 with open("path.txt", "w") as path:
     path.write(content)
 
-
-# os.system("git add .")
-# os.system("git commit -m '[Auto] Update'")
-# os.system("git push")
+os.system("git add .")
+os.system("git commit -m '[Auto] Update'")
+os.system("git push")
