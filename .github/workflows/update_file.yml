@@ -27,6 +27,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pipenv --upgrade-strategy=only-if-needed
         pipenv install --dev
+        pipenv --python path/to/python
     - name: update
       run: |
         cd python
