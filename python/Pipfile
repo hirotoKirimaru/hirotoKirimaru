@@ -9,6 +9,7 @@ start = "python main.py"
 [packages]
 beautifulsoup4 = "*"
 requests = "*"
+gitpython = "*"
 
 [dev-packages]
 
