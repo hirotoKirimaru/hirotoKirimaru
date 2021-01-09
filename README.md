@@ -62,19 +62,19 @@
 何度も考えを反芻するので、総合的な行動速度は早いです。  
   
 # LaprasのScore
-![lapras_score](https://github.com/hirotoKirimaru/hirotoKirimaru/blob/master/lapras_score.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/6b2122adc53449dcb4c69a33d5364954.png)
 
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
 
-# クリフトンストレングス（ストレングスファインダー）
-2021年1月2日実施
-<https://github.com/hirotoKirimaru/hirotoKirimaru/blob/master/cliftonstrengths_20200102.pdf>
-
 # ポートフォリオ
 http://hirotokirimaru.github.io
 
-https://media.lapras.com/media/public_setting/JFCUKEW/6b2122adc53449dcb4c69a33d5364954.png
+# クリフトンストレングス（ストレングスファインダー）
+2021年1月2日実施
+![クリフトンストレングス](https://github.com/hirotoKirimaru/hirotoKirimaru/blob/master/cliftonstrengths_20200102.pdf)
+
+
 
 <!--
 
