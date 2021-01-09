@@ -36,6 +36,8 @@ with open("path.txt", "w") as path:
 
 print(os.system("after"))
 
+os.system("git config --local user.email 'nainaistar@gmail.com'")
+os.system("git config --local user.name 'nainaistar'")
 os.system("git add .")
 os.system("git commit -m '[Auto] Update'")
 os.system("git push")
