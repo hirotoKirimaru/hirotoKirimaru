@@ -22,6 +22,12 @@ with open("path.txt", "r") as path:
     if read in content:
         sys.exit()
 
+print(os.system("pwd"))
+print(os.system("ls -ltr"))
+print(os.system("pwd"))
+print(os.system("cd ../"))
+print(os.system("ls -ltr"))
+
 # 先にREADMEを更新する
 after = ""
 with open("../README.md", "r") as readme:
@@ -33,6 +39,8 @@ with open("../README.md", "w") as readme:
 # 同一だったので更新する
 with open("path.txt", "w") as path:
     path.write(content)
+
+print(os.system("after"))
 
 os.system("git add ../README.MD")
 os.system("git add .")
