@@ -24,14 +24,11 @@ jobs:
         python-version: 3.9
     - name: Install Pipenv
       run: |
-        cd python
         python -m pip install --upgrade pip
         pip install pipenv
     - name: Install dependencies
       run: |
-        cd python
         pipenv sync
     - name: update
       run: |
-        cd python
         pipenv run start
