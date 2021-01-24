@@ -69,7 +69,7 @@
 
   
 # LaprasのScore
-![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/d8daa238f873451cbc81d2071e03cc14.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/4aeb54497d62438e87f60d41216d3c2a.png)
 
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
