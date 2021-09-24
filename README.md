@@ -74,7 +74,7 @@
 https://nainaistar.hatenablog.com/
   
 # LaprasのScore
-![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/0b73cbd1fc8e425595976f0e40fbe9a5.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/0b0ba2a90bb14711833d2bbec3ba6bd4.png)
 
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
