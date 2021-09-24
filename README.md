@@ -72,6 +72,9 @@
 
 # ブログ
 https://nainaistar.hatenablog.com/
+
+# 登壇資料（SpeakerDeck）
+https://speakerdeck.com/hirotokirimaru
   
 # LaprasのScore
 ![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/0b0ba2a90bb14711833d2bbec3ba6bd4.png)
