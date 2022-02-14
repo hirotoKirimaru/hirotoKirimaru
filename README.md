@@ -45,11 +45,12 @@
 # 言語
 |言語|年数|
 |---|---|
-|Java|7年|
-|Python|1年|
+|Java|7.5年|
+|Python|1.5年|
 |VB6|1.5年|
 |VB.NET|1.5年|
 |JQuery|3年|
+|Ruby|0.5年|
 |vue.js|0.5カ月|
 |React.js|0.5カ月|  
 
