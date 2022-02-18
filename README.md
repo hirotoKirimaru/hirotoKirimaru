@@ -113,6 +113,15 @@ https://leetcode.com/hirotoKirimaru/
 コロナ前は2週間に1回のペースでオフラインの勉強会で行ってました。  
 現在は、オンライン勉強会が増えているので、1週間のうち2~3回視聴しています。
 
+<!--
+# 履歴書
+
+https://github.com/hirotoKirimaru/resume
+-->
+
+# 職務経歴書
+
+https://github.com/hirotoKirimaru/resume2
 
 <!--
 
