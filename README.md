@@ -76,7 +76,7 @@ https://nainaistar.hatenablog.com/
 https://speakerdeck.com/hirotokirimaru
   
 # LaprasのScore
-![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/0a7d44041ef640c8a9de8d07a3954e7d.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/b03e9470f0ff41deb5e48aee3f7d3fb8.png)
 
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
