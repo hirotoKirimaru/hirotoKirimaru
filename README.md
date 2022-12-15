@@ -78,6 +78,10 @@ https://speakerdeck.com/hirotokirimaru
 # LaprasのScore
 ![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/f281b99bf437498eae9baf77f50680b9.png)
 
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 # repository
 ![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
 
