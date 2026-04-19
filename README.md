@@ -78,7 +78,7 @@ https://nainaistar.hatenablog.com/
 https://speakerdeck.com/hirotokirimaru
   
 # LaprasのScore
-![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/6ae6026eb4164255894e09aa7dd4fc7c.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/a2e54cb7943b49a9b0fa8ec470b5c477.png)
 
 <!-- 一旦 公式側は停止 -->
 <!--START_SECTION:lapras-card-->
