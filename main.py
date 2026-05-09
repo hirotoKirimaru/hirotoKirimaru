@@ -1,17 +1,17 @@
 import requests
 import sys
 import os
-from selectolax.parser import HTMLParser
+from scrapling.parser import Selector
 # Webページを取得して解析する
 
 # 自分のURLを入力する
 load_url = "https://lapras.com/public/JFCUKEW"
 html = requests.get(load_url)
-tree = HTMLParser(html.content)
+page = Selector(html.text)
 
 content = ""
-for tag in tree.css("meta"):
-    value = tag.attributes.get("content") or ""
+for tag in page.css("meta"):
+    value = tag.attrib.get("content") or ""
     if "https://media.lapras.com/media/public_setting" in value:
         content = value
         break
