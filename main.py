@@ -1,18 +1,19 @@
 import requests
 import sys
 import os
-from bs4 import BeautifulSoup
+from selectolax.parser import HTMLParser
 # Webページを取得して解析する
 
 # 自分のURLを入力する
 load_url = "https://lapras.com/public/JFCUKEW"
 html = requests.get(load_url)
-soup = BeautifulSoup(html.content, "html.parser")
+tree = HTMLParser(html.content)
 
 content = ""
-for tag in soup.find_all(name = "meta"):
-    content = tag['content']
-    if "https://media.lapras.com/media/public_setting" in content:
+for tag in tree.css("meta"):
+    value = tag.attributes.get("content") or ""
+    if "https://media.lapras.com/media/public_setting" in value:
+        content = value
         break
 
 # 事前にファイルのパスを持っておき、同一だった場合は更新しない
