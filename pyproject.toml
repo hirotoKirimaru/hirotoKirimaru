@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "LAPRAS card updater for hirotoKirimaru's profile README"
 requires-python = ">=3.12"
 dependencies = [
-    "beautifulsoup4",
     "gitpython",
     "requests",
+    "scrapling",
 ]
