@@ -1,9 +1,131 @@
+# Hello 👋
+
+I'm a server-side engineer with a Java-focused background.
+
+# Name
+Hiroto Mizukami
+
+# Date of Birth
+February 4, 1992
+
+# Career
+
+I've been working as an engineer since 2014 — currently in my 13th year.
+
+## Full-time
+- 2014/04 – 2019/01
+    - IST Software Co., Ltd.
+        - Second-tier SIer. Worked on systems for government agencies.
+          Experienced the full lifecycle from requirements to release (no operations).
+          Did team development as well as solo on-site assignments at client offices.
+- 2019/02 – 2023/10
+    - SoftBank Corp.
+        - Worked in an Agile environment. No formal team-lead role, but led the team in practice
+          by sharing knowledge and consistently out-implementing peers.
+          Tech: Spring Boot, Python, and others.
+- 2023/11 – Present
+    - KAKEAI, Inc.
+        - 2023/11 – 2025/04 Technical Lead
+          Tech: FastAPI, Ruby on Rails, and others.
+        - 2025/05 – 2025/12 Chief Technology Officer (CTO)
+        - 2026/01 – Present: Technical Lead
+
+## Side jobs
+- 2021/07 – 2021/09
+  - Comichi Co., Ltd.
+    - Implemented markup based on Figma designs.
+- 2020/08 – 2022/04
+  - Team Zero-Ichi Co., Ltd.
+
+<!--
+-->
+
+# University
+Tokyo University of Agriculture
+
+# Languages
+| Language | Years |
+|---|---|
+| Java | 7.5 years |
+| Python | 5.5 years |
+| FastAPI | 3 years |
+| VB6 | 1.5 years |
+| VB.NET | 1.5 years |
+| jQuery | 3 years |
+| Ruby | 3 years |
+| Angular | 3 years |
+| Vue.js | 0.5 month |
+| React.js | 0.5 month |
+
+# Strengths in Practice
+
+I like reducing the total person-hours across a team.
+If we have 100 people × 100 hours = 10,000 hours,
+I'd rather make it 1 person × 110 hours + 99 people × 99 hours = 9,911 hours.
+
+I organize information and document as much as possible so the same mistake doesn't happen twice.
+At minimum, I leave notes in a form *I* can search, which lowers the cost of handoffs and lookups for others.
+Having me on a project means information gets organized — it makes me easy to work with.
+I revisit my own thinking many times, so my overall execution speed is fast.
+
+# Strengths
+
+I can repeat the same task many times without getting bored.
+Even in difficult situations, I find a way to enjoy the present and think about how to improve it.
+
+# Blog
+https://nainaistar.hatenablog.com/
+
+# Speaker Deck
+https://speakerdeck.com/hirotokirimaru
+
+# Lapras Score
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/29ae424c71024aa387fb261da2a47025.png)
+
+<!-- 一旦 公式側は停止 -->
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
+# Repository
+![kirimaru's github stats](https://github-readme-stats.vercel.app/api?username=hirotoKirimaru&show_icons=true)
+
+# Portfolio
+http://hirotokirimaru.github.io
+
+# CliftonStrengths
+Taken on January 2, 2021
+![CliftonStrengths](https://github.com/hirotoKirimaru/hirotoKirimaru/blob/master/cliftonstrengths_20200102.pdf)
+
+# LeetCode
+https://leetcode.com/hirotoKirimaru/
+
+# Works
+
+- https://i-am-eternal-17.vercel.app/
+- https://trpg-charactors.firebaseapp.com/
+
+# Hobbies
+- Yosakoi
+
+I belong to a team where I have friends. I've been doing it since university — 11 years now.
+
+- LT (Lightning Talks)
+- Study groups
+
+I love attending study groups.
+Before COVID, I went to offline meetups roughly once every two weeks.
+Now that online events have increased, I watch 2–3 per week.
+
+# Resume
+https://github.com/hirotoKirimaru/resume2
+
+---
+
 # はじめまして 👋
-サーバーサイドエンジニアです。Javaをメインで経験してきました。  
-  
-  
+サーバーサイドエンジニアです。Javaをメインで経験してきました。
+
 # 氏名
-水上 皓登(みずかみ　ひろと)
+水上 皓登（みずかみ　ひろと）
 
 # 生年月日
 1992年 02月 04日
@@ -27,12 +149,12 @@
         利用技術: Spring Boot、Python 他
 - 2023/11～現在
     - KAKEAI, Inc.
-        - 2023/11～2025/04 テクニカルリード
+        - 2023/11～2025/04 テクニカルリード  
         利用技術: FastAPI、Ruby on Rails 他
         - 2025/05～2025/12 最高技術責任者
         - 2026/01～現在 テクニカルリード
-        
-## 副業 
+
+## 副業
 - 2021/07～2021/09
   - 株式会社コミチ
     - Figmaで指定されたデザインを元にマークアップしました。
@@ -57,7 +179,7 @@
 |Ruby|3年|
 |Angular|3年|
 |vue.js|0.5カ月|
-|React.js|0.5カ月|  
+|React.js|0.5カ月|
 
 # 得意
 総合的な工数を削減するのが好きです。  
@@ -107,7 +229,7 @@ https://leetcode.com/hirotoKirimaru/
 # 制作物
 
 - https://i-am-eternal-17.vercel.app/
-- https://trpg-charactors.firebaseapp.com/ 
+- https://trpg-charactors.firebaseapp.com/
 
 # 趣味
 - よさこい
@@ -143,10 +265,10 @@ https://github.com/hirotoKirimaru/resume2
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
