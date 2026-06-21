@@ -80,7 +80,7 @@ https://nainaistar.hatenablog.com/
 https://speakerdeck.com/hirotokirimaru
 
 # Lapras Score
-![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/8fa9265983974a91a9405dece27022b9.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/dd3487291be74d2d90afcc77c87e2f17.png)
 
 <!-- 一旦 公式側は停止 -->
 <!--START_SECTION:lapras-card-->
@@ -207,7 +207,7 @@ https://nainaistar.hatenablog.com/
 https://speakerdeck.com/hirotokirimaru
   
 # LaprasのScore
-![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/8fa9265983974a91a9405dece27022b9.png)
+![lapras_score](https://media.lapras.com/media/public_setting/JFCUKEW/dd3487291be74d2d90afcc77c87e2f17.png)
 
 <!-- 一旦 公式側は停止 -->
 <!--START_SECTION:lapras-card-->
