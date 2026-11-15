@@ -16,15 +16,15 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
     timeout-minutes: 10 # job全体
 
     steps:
     - uses: actions/checkout@v7
     - name: Install uv
-      uses: astral-sh/setup-uv@v10.2.0
+      uses: astral-sh/setup-uv@v10.3.3
       with:
-        python-version: "3.14"
+        python-version: "3.15"
     - name: Install dependencies
       run: uv sync --locked
     - name: update
