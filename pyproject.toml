@@ -8,3 +8,11 @@ dependencies = [
     "requests",
     "scrapling",
 ]
+
+# Takumi Guard（GMO Flatt Security）の PyPI プロキシを既定のインデックスにし、既知の悪性パッケージを
+# インストール前にブロックする（匿名モード・トークンなし）。pyproject に書いておけば、ローカル・CI
+# （setup-uv）・Docker ビルドの uv がすべてここを通る。
+# https://shisho.dev/docs/t/guard/quickstart/pypi/
+[[tool.uv.index]]
+url = "https://pypi.flatt.tech/simple/"
+default = true
