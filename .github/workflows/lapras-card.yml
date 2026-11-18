@@ -8,9 +8,10 @@ on:
 jobs:
   update-card:
     name: LAPRAS Card
-    runs-on: ubuntu-24.04-arm
+    runs-on: ubuntu-26.04-arm
     steps:
-      - uses: kawamataryo/lapras-card-readme@main
+      # 第三者の action はブランチ（@main）ではなくコミットで固定する（中身が書き換わっても影響を受けない）
+      - uses: kawamataryo/lapras-card-readme@ade0e924c0ab08745fad19435907812a830d004f # main（2026-11-18 時点）
         with:
           SHARE_ID: 'kirimaru'
           # 以下オプション
