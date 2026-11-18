@@ -4,8 +4,8 @@
 name: Python application
 
 on:
+  # workflow_dispatch に branches は書けない（以前は書いてあったが無視されていた）
   workflow_dispatch:
-    branches: [ master ]
   push:
     branches: [ master ]
   pull_request:
@@ -13,10 +13,14 @@ on:
   schedule:
     - cron:  '0 10 * * 0'
 
+# main.py が README.md を commit して push する
+permissions:
+  contents: write
+
 jobs:
   build:
 
-    runs-on: ubuntu-24.04-arm
+    runs-on: ubuntu-26.04-arm
     timeout-minutes: 10 # job全体
 
     steps:
@@ -29,3 +33,6 @@ jobs:
       run: uv sync --locked
     - name: update
       run: uv run python main.py
+      # pull_request では README.md の更新までを確かめ、commit / push はしない
+      env:
+        DRY_RUN: ${{ github.event_name == 'pull_request' && '1' || '' }}
